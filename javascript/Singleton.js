@@ -5,9 +5,6 @@ class Singleton {
       }
       return Singleton.instance;
     }
-    static getInstance() {
-      return this.instance;
-    }
 }
 
 const sing1 = new Singleton()

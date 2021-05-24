@@ -1,4 +1,4 @@
-package java;
+package java.Singleton;
 
 public final class Singleton {
 
